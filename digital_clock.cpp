@@ -1,4 +1,9 @@
-//COMPLETE THIS LATER
+//A Nested For Loop Demonstration
+/*
+   Outer Loop simulates hours.
+   Outer Loop simulates minutes
+   Outer Loop simulates seconds.
+*/
 
 #include <iostream>
 //#include <bits/stdc++.h>
